@@ -7,7 +7,7 @@ body{
     background-position: top left,bottom right;
     font-size: 15px;
 }
-.main{
+main{
     margin: 70px 130px;
     display: flex;
     flex-wrap: wrap;
@@ -112,7 +112,7 @@ section img{
     margin-right: 25px;
 }
 @media screen and (max-width:600px) {
- .main{
+ main{
      margin:40px auto;
      
      width: 90%;     
